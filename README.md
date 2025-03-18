@@ -3,8 +3,7 @@
 ### A Study on the Principles Leading to Seizure Events  
 
 ## Authors  
-<p align="center"> <a href="https://github.com/PietroSaveri"> <img src="https://github.com/PietroSaveri.png" width="100" height="100" style="border-radius: 50%;" alt="Pietro Saveri"/> </a> <br> <b>Pietro Saveri</b> </p> <p align="center"> <a href="https://github.com/SebaPietra"> <img src="https://github.com/SebaPietra.png" width="100" height="100" style="border-radius: 50%;" alt="Sebastiano Pietrasanta"/> </a> <br> <b>Sebastiano Pietrasanta</b> </p> <p align="center"> <a href="https://github.com/MatteoSalami"> <img src="https://github.com/M4tteoo.png" width="100" height="100" style="border-radius: 50%;" alt="Matteo Salami"/> </a> <br> <b>Matteo Salami</b> </p>
-
+<p align="center"> <a href="https://github.com/PietroSaveri"> <img src="https://github.com/PietroSaveri.png" width="100" height="100" style="border-radius:50%;" alt="Pietro Saveri"/> <br><b>Pietro Saveri</b> </a> &nbsp;&nbsp;&nbsp; <a href="https://github.com/SebaPietra"> <img src="https://github.com/SebaPietra.png" width="100" height="100" style="border-radius:50%;" alt="Sebastiano Pietrasanta"/> <br><b>Sebastiano Pietrasanta</b> </a> &nbsp;&nbsp;&nbsp; <a href="https://github.com/MatteoSalami"> <img src="https://github.com/M4tteoo.png" width="100" height="100" style="border-radius:50%;" alt="Matteo Salami"/> <br><b>Matteo Salami</b> </a> </p>
 ## Overview  
 This project investigates the mechanisms underlying epileptic seizures, both at the **microscale** (single-neuron level) and **mesoscale** (neuronal population level). Our aim is to model seizure activity using a biologically inspired approach, analyzing the **ion channel dynamics** of individual neurons and the **network interactions** in the hippocampus and neocortex.  
 
