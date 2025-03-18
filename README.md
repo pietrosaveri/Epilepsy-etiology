@@ -3,7 +3,10 @@
 ### A Study on the Principles Leading to Seizure Events  
 
 ## Authors  
-<img src="https://github.com/{{SebaPietra}.png" width="60px;"/><br />
+<div class="photos">
+<a href="https://github.com/SebaPietra"> 
+  <img href="Github profile image source"> 
+</a>
 
 - **Pietro Saveri**  
 - **Sebastiano Pietrasanta**  
